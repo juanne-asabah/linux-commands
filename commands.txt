@@ -1,0 +1,3 @@
+"mv source destination  # moves a file" 
+"cp source destination  # copies a file" 
+"mkdir dirname  # creates a new directory" 
