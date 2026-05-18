@@ -1,1 +1,5 @@
 ls-list files
+pwd
+mkdir test
+touch notes.txt
+cat file.txt
